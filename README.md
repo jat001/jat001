@@ -13,4 +13,4 @@
 
 :package: You can find the packages that I maintained for [Scoop](https://github.com/jat001/scoop-ox), [Homebrew](https://github.com/jat001/homebrew-ox) and [AUR](https://aur.archlinux.org/packages/?SeB=m&K=Jat).
 
-**:raised_hands: Nobody :ok_hand: knows :point_up: how to write README :open_hands: better than me.**
+**:raised_hands: Nobody :ok_hand: knows :point_up: how to write [README](https://github.com/jat001/jat001/blob/main/README.md) :open_hands: better than me.**
