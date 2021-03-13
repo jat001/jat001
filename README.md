@@ -7,9 +7,9 @@
 
 :monkey_face: You can easily find me on the Internet by [searching my avatar](https://www.google.com/searchbyimage?image_url=https://avatars.githubusercontent.com/u/1758850).
 
-🧑‍💻 I like [copy-and-paste programming](https://en.wikipedia.org/wiki/Copy-and-paste_programming) rather than [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) or [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
+:technologist: I like [copy-and-paste programming](https://en.wikipedia.org/wiki/Copy-and-paste_programming) rather than [object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming) or [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
 
-:technologist: I have 3 computers running [Windows](https://www.microsoft.com/windows), [macOS](https://www.apple.com/macos) and [Manjaro](https://manjaro.org).
+:desktop_computer: I have 3 computers running [Windows](https://www.microsoft.com/windows), [macOS](https://www.apple.com/macos) and [Manjaro](https://manjaro.org).
 
 :package: You can find the packages that I maintained for [Scoop](https://github.com/jat001/scoop-ox), [Homebrew](https://github.com/jat001/homebrew-ox) and [AUR](https://aur.archlinux.org/packages/?SeB=m&K=Jat).
 
