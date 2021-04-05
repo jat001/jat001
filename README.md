@@ -1,8 +1,12 @@
 <p align="center"><a href="https://github.com/jat001/jat001/blob/main/README.md">
-  <img src="https://github-readme-stats.vercel.app/api/?username=jat001&show_icons=true&include_all_commits=true&count_private=true&line_height=28&theme=material-palenight" alt="Jat's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jat001&layout=compact&card_width=450&langs_count=10&theme=material-palenight&exclude_repo=magewell-pro-capture" alt="Jat's top languages" width="495">
+  <img src="https://github-readme-stats.vercel.app/api/?username=jat001&show_icons=true&include_all_commits=true&count_private=true&line_height=28&theme=material-palenight" alt="Jat's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jat001&layout=compact&card_width=450&langs_count=10&theme=material-palenight&exclude_repo=magewell-pro-capture" alt="Jat's Top Languages" width="495">
 </a></p>
 
+<p align="center"><a href="https://wakatime.com/@Jat">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jat&custom_title=Last%20Week%20Stats&layout=compact&theme=material-palenight&range=last_7_days" alt="Jat's Week Stats">
+</a></p>
+                                                                                                                                              
 ### :wave: Hi, there! I am Jat.
 
 :monkey_face: You can easily find me on the Internet by [searching my avatar](https://www.google.com/searchbyimage?image_url=https://avatars.githubusercontent.com/u/1758850).
