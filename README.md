@@ -3,9 +3,11 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jat001&layout=compact&card_width=450&langs_count=10&theme=material-palenight&exclude_repo=magewell-pro-capture" alt="Jat's Top Languages" width="495"> -->
 </a></p>
 
+<!--
 <p align="center"><a href="https://wakatime.com/@Jat">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jat&custom_title=Last%20Week%20Stats&layout=compact&theme=material-palenight&range=last_7_days" alt="Jat's Week Stats">
 </a></p>
+-->
                                                                                                                                               
 ### :wave: Hi, there! I am Jat.
 
