@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/jat001/jat001/blob/main/README.md">
+<p align="center"><a href="https://metrics.lecoq.io/insights/jat001">
   <img src="https://github-readme-stats.vercel.app/api/?username=jat001&card_width=495&custom_title=GitHub%20Stats%20for%20All%20Time&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=30&theme=material-palenight" alt="GitHub Stats for All Time">
 </a></p>
 
